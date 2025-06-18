@@ -2,6 +2,7 @@
 
 Структура проекта
 
+```
 vyap/
   ├── src/
   │   ├── __init__.py
@@ -23,6 +24,7 @@ vyap/
   │           └── styles.qss
   ├── requirements.txt
   └── food_delivery.db
+```
 
 Установка
 
