@@ -25,6 +25,10 @@ vyap/
   ├── requirements.txt
   └── food_delivery.db
 ```
+Также внутри будет дополнительный README, настоятельно рекомендую с ним ознакомиться.
+Практически весь код грамотно прокомментирован.
+Присутствуют баги по тёмной теме и датам.
+
 SS
 ![изображение](https://github.com/user-attachments/assets/261724e4-5af6-47ed-97b7-90458d536749)
 ![изображение](https://github.com/user-attachments/assets/4fffcdef-8949-4ddf-9c9c-0ec8c144b18f)
@@ -32,12 +36,11 @@ SS
 ![изображение](https://github.com/user-attachments/assets/2fc5a6a7-1184-45c6-93fa-1f056d1ae6ae)
 
 Установка
-
 1. Убедитесь, что у вас установлен Python 3.8 или выше
 2. Установите зависимости:
-   ```
-   pip install -r requirements.txt
-   ```
+```
+pip install -r requirements.txt
+```
 
 Запуск приложения
 
