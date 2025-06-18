@@ -26,6 +26,9 @@ vyap/
   └── food_delivery.db
 ```
 SS
+![изображение](https://github.com/user-attachments/assets/261724e4-5af6-47ed-97b7-90458d536749)
+![изображение](https://github.com/user-attachments/assets/4fffcdef-8949-4ddf-9c9c-0ec8c144b18f)
+![изображение](https://github.com/user-attachments/assets/3b8e04cc-d975-462c-b86e-05c89fa3c1ae)
 ![изображение](https://github.com/user-attachments/assets/2fc5a6a7-1184-45c6-93fa-1f056d1ae6ae)
 
 Установка
