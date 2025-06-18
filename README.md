@@ -25,6 +25,8 @@ vyap/
   ├── requirements.txt
   └── food_delivery.db
 ```
+SS
+![изображение](https://github.com/user-attachments/assets/2fc5a6a7-1184-45c6-93fa-1f056d1ae6ae)
 
 Установка
 
